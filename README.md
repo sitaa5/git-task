@@ -10,4 +10,6 @@ git push orgin [branch]
 
 it will show the status of current respository including the file 
 git status
+git add .
 git commit -m "write any message"
+git push origin
