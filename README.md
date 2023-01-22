@@ -9,5 +9,5 @@ git commit -m ""
 git push orgin [branch]
 
 it will show the status of current respository including the file 
-git status
-takeoytuyyj
+git statussita adhikari
+sita adhikari
